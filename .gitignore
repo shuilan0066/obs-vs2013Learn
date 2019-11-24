@@ -1,9 +1,4 @@
-﻿xcuserdata/
-bin/*
-!bin/themes
-!bin/intlive
-bin/intlive/log/
-tmp/
+﻿tmp/
 ipch/
 *.tlog/
 Thumbs.db
@@ -11,8 +6,6 @@ lavaagnt.txt
 lava.ini
 .DS_Store
 *.[ao]
-*.lib
-*.dll
 *.obj
 *.sbr
 *.log
