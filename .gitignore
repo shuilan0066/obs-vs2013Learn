@@ -11,8 +11,6 @@ lava.ini
 *.log
 *.idb
 *.aps
-*.bin
-*.exe
 *.exp
 *.ilk
 *.pdb
