@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\obs\obsLearn\obs-studio\plugins\win-capture\inject-library.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\obs\obsLearn\obs-studio\plugins\win-capture\obfuscate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\obs\obsLearn\obs-studio\plugins\win-capture\inject-helper\inject-helper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\obs\obsLearn\obs-studio\plugins\win-capture\inject-helper\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{38AE4957-671D-3F99-B646-A92D985FCC4F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

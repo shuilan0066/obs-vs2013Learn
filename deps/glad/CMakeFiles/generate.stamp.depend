@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/FindOpenGL.cmake
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/FindPackageMessage.cmake
+F:/obs/obsLearn/obs-studio/deps/glad/CMakeLists.txt

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\obs\obsLearn\obs-studio-vs2013\UI\frontend-plugins\frontend-tools\frontend-tools_autogen\mocs_compilation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\auto-scene-switcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\frontend-tools.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\output-timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\auto-scene-switcher-win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\obs\obsLearn\obs-studio-vs2013\config\frontend-tools-config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\auto-scene-switcher.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\output-timer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\tool-helpers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\obs\obsLearn\obs-studio-vs2013\UI\frontend-plugins\frontend-tools\ui_auto-scene-switcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\obs\obsLearn\obs-studio-vs2013\UI\frontend-plugins\frontend-tools\ui_output-timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\forms\auto-scene-switcher.ui" />
+    <CustomBuild Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\forms\output-timer.ui" />
+    <CustomBuild Include="F:\obs\obsLearn\obs-studio\UI\frontend-plugins\frontend-tools\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B5377544-C59E-356B-B1AD-0836A7F75365}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{38AE4957-671D-3F99-B646-A92D985FCC4F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

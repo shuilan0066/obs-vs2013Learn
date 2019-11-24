@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+F:/obs/obsLearn/obs-studio/deps/w32-pthreads/CMakeLists.txt
+F:/obs/obsLearn/obs-studio/deps/w32-pthreads/w32-pthreadsConfig.cmake.in
+F:/obs/obsLearn/obs-studio/deps/w32-pthreads/w32-pthreadsConfigVersion.cmake.in

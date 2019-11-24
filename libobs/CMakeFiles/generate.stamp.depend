@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/CMakeConfigurableFile.in
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/CheckIncludeFiles.cmake
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/CheckLibraryExists.cmake
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/CheckSymbolExists.cmake
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/FindImageMagick.cmake
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/FindPackageMessage.cmake
+F:/obs/obsLearn/cmake-3.16.0-rc3-win64-x64/share/cmake-3.16/Modules/FindPkgConfig.cmake
+F:/obs/obsLearn/obs-studio-vs2013/CMakeFiles/CheckIncludeFiles/CMAKE_HAVE_PTHREAD_H.c
+F:/obs/obsLearn/obs-studio/cmake/Modules/FindFFmpeg.cmake
+F:/obs/obsLearn/obs-studio/cmake/Modules/FindThreads.cmake
+F:/obs/obsLearn/obs-studio/cmake/Modules/FindZLIB.cmake
+F:/obs/obsLearn/obs-studio/libobs/CMakeLists.txt
+F:/obs/obsLearn/obs-studio/libobs/LibObsConfig.cmake.in
+F:/obs/obsLearn/obs-studio/libobs/LibObsConfigVersion.cmake.in
+F:/obs/obsLearn/obs-studio/libobs/obsconfig.h.in
